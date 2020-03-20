@@ -1,0 +1,17 @@
+temp/
+src/img/
+src/js/test/
+src/webfonts
+src/css/all.css
+src/css/reset.css
+server/node_modules
+server/package-lock.json
+server/bin/
+server/routes/json/wordData.json
+server/routes/index.js
+server/routes/users.js
+server/views/
+server/firebase
+node_modules
+package-lock.json
+dist
